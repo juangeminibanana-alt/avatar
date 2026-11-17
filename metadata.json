@@ -1,0 +1,6 @@
+{
+  "name": "Estudio 3D Fotogramétrico",
+  "description": "Reconstrucción 3D funcional mediante casco visual y proyección multivista a partir de ocho perfiles en 4K.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
